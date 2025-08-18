@@ -266,17 +266,3 @@ p {
 
 
 
-.resume-btn {
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #007bff; /* Blue color */
-  color: white;
-  text-decoration: none;
-  border-radius: 8px;
-  font-weight: bold;
-  transition: background-color 0.3s ease;
-}
-
-.resume-btn:hover {
-  background-color: #0056b3; /* Darker blue when hovered */
-}
